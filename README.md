@@ -1,4 +1,4 @@
-# BasesDeDonnees
+# Bases_Données
 
 Projet Bases de données - 2019/2020
 
